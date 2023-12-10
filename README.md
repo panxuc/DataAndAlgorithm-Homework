@@ -2,6 +2,8 @@
 
 此仓库只用作备份，不可作为作业参考，不可抄袭。每次作业会在截止日期后提交到此仓库。
 
+现在可访问 [Xuc's Docs](https://docs.panxuc.com/projects/coursework/daa/) 查看本仓库内容。
+
 ## 目录
 
 |    #    | 题目                                                 | 答案                   | 代码                     | 截止日期            |
